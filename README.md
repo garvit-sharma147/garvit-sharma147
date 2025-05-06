@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @garvit-sharma147
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning android development
+- 💞️ I’m looking to collaborate on android development projects
 - 📫 How to reach me insta-garvit_sharma147
-- 😄 Pronouns: he/her
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: quick leaner
 
 <!---
